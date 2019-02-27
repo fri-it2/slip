@@ -1,3 +1,4 @@
+#source: http://recolog.blogspot.com/2012/10/serial-line-internet-protocol-slip.html
 import serial
 import nbp
 
